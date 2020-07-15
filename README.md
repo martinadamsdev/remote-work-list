@@ -2,4 +2,4 @@
 
 ## Website
 
-- [eleduck.com](https://bit.ly/2WjFxdH) - Remote work, freelance, part-time outsourcing, freedom starts here
+- [eleduck.com](https://eleduck.com?utm_source=github&utm_medium=cpc&utm_campaign=martin-remote-work-list) - Remote work, freelance, part-time outsourcing, freedom starts here
